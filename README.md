@@ -1,3 +1,4 @@
-# Important README info about this repo
+# CS207 Course Repository for David Sondak
 
-Winter is coming.
+This is my course repository for CS207.  I'm pretending to 
+be a student.
